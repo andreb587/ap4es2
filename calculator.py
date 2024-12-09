@@ -1,6 +1,5 @@
-class MemoryCalculator:
+class Calculator:
   
-  #Construtor
     def __init__(self, save_last_sum=False):
         self._total = 0
 
